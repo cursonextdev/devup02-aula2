@@ -31,5 +31,5 @@ Botão pulse rosa
 rgba(229, 33, 92, .5)
 
 Botão pulse preto
-(229, 33, 92, 0)
+rgba(229, 33, 92, 0)
 
